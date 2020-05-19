@@ -35,7 +35,7 @@ Following tasks were performed:
 
    ![settle_trend](Images/settle_trend.PNG)
 
-   ![Noise](Images/noise.PNG)
+   ![Noise](Images/Noise.PNG)
 
 2. Forecasting Returns using an ARMA Model.
 
@@ -75,10 +75,13 @@ Following tasks performed:
 
 ```
 predictions = model.predict(X_test)
-
 ```
-    ![predicted_return](Images/predicted_return.PNG)
-    ![predicted_return_plot](Images/predicted_return_plot.PNG)
+
+
+![predicted_return](Images/predicted_return.PNG)
+![predicted_return_plot](Images/predicted_return_plot.PNG)
+
+    
 
 4. Out-of-sample performance.
 ```
