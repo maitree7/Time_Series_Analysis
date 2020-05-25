@@ -84,11 +84,13 @@ predictions = model.predict(X_test)
     
 
 4. Out-of-sample performance.
+
 ```
 Out-of-sample Root Mean Squared Error (RMSE): 0.41521640820129047
 ```
 
 5. In-sample performance.
+
 ```
 In-sample Root Mean Squared Error (RMSE): 0.5663352320297497
 ```
@@ -98,7 +100,7 @@ Use the results of the linear regression analysis and modeling to answer the fol
 * Does this model perform better or worse on out-of-sample data compared to in-sample data?
 
 ```
-RMSE for Out-of-sample is lower (0.415) as compared to in-sample (0.566). This model performs better on out-of-sample data 
+RMSE for Out-of-sample is lower (0.415) as compared to in-sample (0.566). Model performs better on out-of-sample data 
 ```
 
 - - -
